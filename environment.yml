@@ -1,0 +1,9 @@
+name: visu-geo
+channels:
+  - defaults
+dependencies:
+  - python=3.13.18
+  - geopandas=1.2.0
+  - pandas=2.2.3
+  - numpy=2.1.3
+  - folium=0.20.0
